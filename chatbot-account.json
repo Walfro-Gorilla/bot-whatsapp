@@ -1,13 +1,12 @@
 {
-    "type": "",
-    "project_id": "",
-    "private_key_id": "",
-    "private_key":"",
-    "client_email": "",
-    "client_id": "",
-    "auth_uri": "",
-    "token_uri": "",
-    "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url":""
-  }
-  
+  "type": "service_account",
+  "project_id": "wabot-wal-ykeg",
+  "private_key_id": "1aadddc1dcc24359a0f0dae9c7d0a7b959fef75f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkiseswllFEzEj\nouDTiSKjKZ1WlNBHfYdfxaOuNuIdPn2iComSSS0aOXUOHjYUk7aT/AggbtIRkMB4\n9eXuk8mnM95O8UNwv8zpLci3dAgG4D2dk9/oeZkiJfKa4BbZc5N25Vdjra4RA87X\nv8KdN0WPI1ILVmtPDeHnhNsPsmJ6DFIw6jUSp/Rwia+BDR0mgVwsyX7pTtp0mkNB\nmLJLHdIGQ1brupzv0xemtcEebagN2+mO4dk11muLpsWpCHSgYBgnsgDFtmZy/xvH\noeU+xZiXI1WQ09+i2I3cI9Ygrj1SoArLnN3Clqf4hSY49pwZs30CKxSLQujE2JH4\nZsYkM2AXAgMBAAECggEAC4A6/k0dudsVj2aBgHrdYocBUF2M3iWQCMmvuMWgfs39\nyg28GYiz3L/Kk5ByoNpfFwjoW7WWfIcGbQecnFU7V+Yja8rBUM6XONU40MBASPrA\nU8ggpm2Za1TSGErOTg5RO5MPZxA37BVWdKe0QRKHJViHeFnNNlr22oMWxlbmbmr0\nf7BXNi2msuZflKfROhMY1+8tIPyLZg3EZU+GoYrb+F17nD+dC5VwljbeB+x557P1\nv6nNQybvNnnwZsHSrPRGAsa338jT/BZkacVrEPJMtaeUgvXlhA0JNF6TPMSvBHde\np5aHN8Idto6V3XHr8scudFiEN2a0qpILMqTARGeAQQKBgQDbMTW33CNTd0BztbP7\nDpf3FAlQGWjwSB8njAaJJ0dhz+J/tZzvxDRpByIPkLKuQ2VmdhzRr6S4ReCvzh86\nPqL6+Ow2CqneR3ty3rxEt8n5HZtRjD2XX+4JfrReMvP7E2TWd8XDH5iokZ0QIRpE\nrsiYgcPKCeA2TxreeFpFcurlswKBgQDALDt6+Ix+P9IU0XZP28LIW8/nzl+5NP/v\nGN9gElFvlctK6MTnHNEPFB4NXNuwgP4ICSWXp8JVcLgFL0kXk97tOBNvst9vIHj9\nwc8XivmboeMCn8TuYNFGraeOAawCP/KDVzd4+kcaXkLdiRL8k21fQJ4Schxd+q+y\ns6UnNhRyDQKBgCfXIfRxRtp86nIdrMENPgHi2m58r948vazqfqWfRhI5PuoHkKbj\n+sK8USyTGGckSOH+xe43BrGXwecyh+qGSAlmBUktVwLX61BNu9qhrUxiXUDNRMSm\n4xVGunIEwOP5+nIhAwkcTRsWnH26BpRFUKCntXabpO06I6AcMAw/fwKRAoGAHSQX\n+PPLyjE/WCzTNhTrGprhkhM3bMxeqxEoflcIxlT+uONHSIyUHyc7z2bvYXqOCwXo\nD3E/BNnM7exXtx2TRoGkYOHNA/r2nfRPxRAr/a+0zucPY96GnaMjr2MNhGHSEpyd\nKtk5AwScOx/YIzjv8uvHjKCFMLMdBYo8Vw/aVdkCgYBc4jAzI2VLb416gFwM7jMz\nv8PhaVpvB73udibatDgkbQRBdKUI/CQ5+35q23LTbol0R3T2lNM91Ik+ubkq6Gem\nPornUGCxSjlu//qst0Dq0xM507R2K2bLCPfR4100KfP3rhCEDricg6oBhnR6ehbz\ngHWXQyZxe63yOk/oWlTBfQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "wa-bot-ketzal@wabot-wal-ykeg.iam.gserviceaccount.com",
+  "client_id": "100171854659644962513",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wa-bot-ketzal%40wabot-wal-ykeg.iam.gserviceaccount.com"
+}
